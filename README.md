@@ -1,17 +1,17 @@
-AI/ML Internship Tasks — DevelopersHub Corporation
-Intern: Faisal Imtiaz
-DHC-4641
-Organization: DevelopersHub Corporation
-Task 1: Exploring and Visualizing a Simple Dataset
-Perform exploratory data analysis on the Iris dataset to understand
+. AI/ML Internship Tasks — DevelopersHub Corporation
+. Intern: Faisal Imtiaz
+. DHC-4641
+. Organization: DevelopersHub Corporation
+. Task 1: Exploring and Visualizing a Simple Dataset
+. Perform exploratory data analysis on the Iris dataset to understand
 the structure, distribution, and relationships between features
 using Python libraries.
-Dataset Used:
-Name:Iris Dataset
-Source:iris.csv
-Size:150 rows, 6 columns
-Features:SepalLengthCm, SepalWidthCm, PetalLengthCm, PetalWidthCm, Species
-Tools & Libraries Applied:
+.Dataset Used:
+.Name:Iris Dataset
+.Source:iris.csv
+.Size:150 rows, 6 columns
+.Features:SepalLengthCm, SepalWidthCm, PetalLengthCm, PetalWidthCm, Species
+.Tools & Libraries Applied:
 1) Python
 2) Pandas — data loading and summary statistics
 3) Matplotlib — basic plotting
